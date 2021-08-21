@@ -56,6 +56,8 @@ Supervised machine learning with Python was used to determine risk levels for cr
 
 ## Summary
 
+In conclusion, out of all the methods used, I would reccomend the Easy Ensemble method for determining who has a high credit risk and shouldn't be given a loan. It had the highest recall score at 89%, meaning that is the percentage of total high risk customers that were detected. However, although the precision score for this method was also the highest, it's still just below 10%, meaning less than 10% of all customers identified as being high credit risks actually were. This would bar legitimate customers with good credit from being able to be provided a loan.
+
 
 
 
