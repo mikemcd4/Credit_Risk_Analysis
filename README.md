@@ -54,6 +54,8 @@ Supervised machine learning with Python was used to determine risk levels for cr
 
 ![easy_ensemble](https://user-images.githubusercontent.com/77767984/130332842-a7021fef-ddd7-4c37-8cd7-3f8692e8aafe.PNG)
 
+## Summary
+
 
 
 
